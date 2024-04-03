@@ -9,18 +9,26 @@ Currently pursuing a master's degree in computer science at Gdańsk University o
 
 Having graduated a bachelor's degree with a GPA of 4.5. My engineering thesis `Data acquisition system for formula student car` was awarded  a perfect score of 5!
 
+<br></br>
+<hr>
 
-## :globe_with_meridians:	Socials
-Reach me on LinkedIn
+<h2 align="center">:globe_with_meridians: Socials</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/bartosz-janicki-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bartosz-janicki-28ba75276)
+<p align="center">⬇️ Reach me on LinkedIn ⬇️</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/bartosz-janicki-28ba75276">
+    <img src="https://img.shields.io/badge/bartosz-janicki-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
+  </a>
+</p>
 
+<p align="center">⬇️ Profesional account ⬇️</p>
 
-Profesional account
-
-[![GitHub_Badge](https://img.shields.io/badge/BartoszJanicki-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/](https://github.com/BartoszJanicki))
-
+<p align="center">
+  <a href="https://github.com/BartoszJanicki">
+    <img src="https://img.shields.io/badge/BartoszJanicki-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+</p>
 
 <!--
 **Booswoos/Booswoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
