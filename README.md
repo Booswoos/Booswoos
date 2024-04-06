@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-My name is Bartek Janicki. 
+My name is Bartosz Janicki, but you can call me Bartek. Since high school, I have been interested in robotics and embedded systems. I began my journey by designing a line-following robot, then shifted my focus to mini-sumo and sumo bots, participating in several robotics competitions in Poland. During my engineering course, my colleagues and I won the Dean's award for the best group project of the year, for developing a robot inspired by SPOT by Boston Dynamics. In the meantime, I'm engaged in race car construciton for Formula Student competition. Until now, I have worked on several vehicles as a member of the electronics department and have appeared at numerous international competitions. In free time  I like to go hikining, bouldering or simply go out with friends.
 
+<br></br>
 
 ## :books:  Education
 
@@ -10,7 +11,14 @@ Currently pursuing a master's degree in computer science at Gdańsk University o
 Having graduated a bachelor's degree with a GPA of 4.5. My engineering thesis `Data acquisition system for formula student car` was awarded  a perfect score of 5!
 
 <br></br>
-<hr>
+
+## :briefcase: Experiance
+- PGRacing Team
+- SKAR
+- EmbeddedSystem.do
+- Intel Corporation
+
+<br></br>
 
 <h2 align="center">:globe_with_meridians: Socials</h2>
 
@@ -29,18 +37,3 @@ Having graduated a bachelor's degree with a GPA of 4.5. My engineering thesis `D
     <img src="https://img.shields.io/badge/BartoszJanicki-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   </a>
 </p>
-
-<!--
-**Booswoos/Booswoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
